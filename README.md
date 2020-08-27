@@ -1,2 +1,1 @@
-# sample1
-This is a sample website
+I have created a BMI Calculator Using HTML
